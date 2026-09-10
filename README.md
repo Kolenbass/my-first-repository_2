@@ -1,7 +1,7 @@
 <!-- ![Аватарка](laika.jpg) -->
-<p align=center>
-<img src="laika.jpg" width=100>
-</p>
+
+<img src="laika.jpg" width=200>
+<img src=laika.jpg width=300>
 <details>
   <summary>Нажимать сюда</summary>
   
